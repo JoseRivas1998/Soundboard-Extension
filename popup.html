@@ -1,37 +1,23 @@
-<!doctype html>
-<!--
- This page is shown when the extension button is clicked, because the
- "browser_action" field in manifest.json contains the "default_popup" key with
- value "popup.html".
- -->
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>Getting Started Extension's Popup</title>
-    <style>
-      body {
-        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
-        font-size: 100%;
-      }
-      #status {
-        /* avoid an excessively wide status text */
-        white-space: pre;
-        text-overflow: ellipsis;
-        overflow: hidden;
-        max-width: 400px;
-      }
-    </style>
+<head>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<title>Ayy Lmao</title>
+</head>
+<body>
+	<audio autoplay loop>
+		<source src="assets/roasted.mp3" type="audio/mpeg"> 
+	</audio> 
+			<img id="franku" src="assets/franku.gif" alt="YOU JUST GOT ROASTED" />
+	<div id="text">
+		<h1>YOU JUST GOT ROASTED</h1>
+	</div>
+	<audio id="sound1" src="assets/prettygood.mp3" preload="auto"></audio>
+	<div id="prettygood">
+	<button onclick="document.getElementById('sound1').play();">
+		<img id="face" src="assets/idubbbz.jpg" alt="prettygood" />
+	</button>
+	</div>
 
-    <!--
-      - JavaScript and HTML must be in separate files: see our Content Security
-      - Policy documentation[1] for details and explanation.
-      -
-      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
-     -->
-    <script src="popup.js"></script>
-  </head>
-  <body>
-    <div id="status"></div>
-    <img id="image-result" hidden>
-  </body>
+</body>
 </html>
-

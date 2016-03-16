@@ -1,0 +1,36 @@
+img{
+	width: 97%;
+	height: 98%;
+}
+body{
+	background-color: #ff00d4;
+}
+
+#text{
+	position: absolute;
+	top: 200px;
+	left: 30px;
+	width: 98%;
+	font-family: 'Arial', Sans Serif;
+	font-size: 78px;
+	z-index: 3;
+}
+#prettygood{
+	position: absolute;
+	top: 20px;
+	right: 75px;
+	height: 45px;
+	width: 2px;
+}
+#face{
+	position: absolute;
+	top: 20px;
+	right: 75px;
+	height: 45px;
+	width: auto;
+	z-index:2;
+}
+#franku{
+	position: absolute;
+	z-index:1;
+}
