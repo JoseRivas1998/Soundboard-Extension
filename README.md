@@ -1,5 +1,5 @@
 # ayy-lmao-pls
-Trying out making a basic chrome extension. Should eventually be a simple soundboard of annoying noise.]
+Trying out making a basic chrome extension. Should eventually be a simple soundboard of annoying noise.
 
 TO ADD:
   * Pink Guy Singing (Bitches Ain't Shit)
@@ -17,4 +17,9 @@ TO ADD:
   * Socks
   * Dress
   * Darude sandstorm
+  * John cena
+  * allahu akbar
+  * caaaaarrrl
+  * it's Wednesday my dudes
+  * phone ringing
   * 
