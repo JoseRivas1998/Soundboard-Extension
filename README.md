@@ -1,7 +1,7 @@
 # ayy-lmao-pls
 Trying out making a basic chrome extension. Should eventually be a simple soundboard of annoying noise.]
 
-List of sounds:
+TO ADD:
   * Pink Guy Singing (Bitches Ain't Shit)
   * Can I habe pizza pls
   * Ey b0ss fuk u mane
@@ -9,5 +9,12 @@ List of sounds:
   * Various sexual moaning
   * Fuck you
   * Words Can't bring me down
-  * TRUUUU
+  * No No (the office)
+  * What a Windy Day
+  * Normies REEEEEEEE
+  * Fist me daddy
+  * Geet's recordings
+  * Socks
+  * Dress
+  * Darude sandstorm
   * 
