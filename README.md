@@ -22,4 +22,13 @@ TO ADD:
   * caaaaarrrl
   * it's Wednesday my dudes
   * phone ringing
-  * 
+  * only time
+  * smoke weed everyday
+  * sad violin earrape edition
+  * MLG sound effects
+  * G U N S
+  * hitmarker
+  * who moved my cheese
+  * wake me up inside (oatmeal)
+  * I have a cancer boss
+  * Darius's YouTube
