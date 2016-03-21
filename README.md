@@ -40,7 +40,7 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Please shut the fuck up
   * high pitch noise
   * Sit down kid
-  * ##NEED TO BOOST AUDIO
+  * **NEED TO BOOST AUDIO**
 
 ##INSTALLATION
   1. Download .zip file of repo
