@@ -1,7 +1,7 @@
 # ayy-lmao-pls
 Trying out making a basic chrome extension. Should eventually be a simple soundboard of annoying noise.
 
-TO ADD:
+###TO ADD:
   * Various sexual moaning
   * Fuck you
   * What a Windy Day
@@ -24,5 +24,16 @@ TO ADD:
   * wake me up inside (oatmeal)
   * I have a cancer boss
   * Darius's YouTube
-  * My Heart Will Go On
+  * My Heart Will Go On (Ear rape/cancer)
   * Cancermemes
+  * Knowledge
+  * New lamborghinis
+  * Nice meme
+  * Pumkin
+  * Its a meme you dip
+  * ###NEED TO BOOST AUDIO
+
+##
+  
+
+
