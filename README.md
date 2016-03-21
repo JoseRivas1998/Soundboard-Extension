@@ -35,6 +35,9 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Screamer
   * My favorite flavor of popsicle is dick
   * I named my Pussy Rihanna because my pussy love getting beat up
+  * Hit me with that wet dick daddy
+  * Please shut the fuck up
+  * Sit down kid
   * ##NEED TO BOOST AUDIO
 
 ##HOW TO USE SOUND ADDER:
