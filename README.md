@@ -6,7 +6,6 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Fuck you
   * What a Windy Day
   * Fist me daddy
-  * Geet's recordings
   * Socks
   * Dress
   * Darude sandstorm
@@ -39,13 +38,12 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * I'd sell my body for a double cheeseburger
   * Hit me with that wet dick daddy
   * Please shut the fuck up
-  * 
+  * high pitch noise
   * Sit down kid
   * ##NEED TO BOOST AUDIO
 
 ##HOW TO USE SOUND ADDER:
-  1. Open Command Prompt
-  2. Type "java -jar" into the prompt
+  1. Open command prompt
   
 
 
