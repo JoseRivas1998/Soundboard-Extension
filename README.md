@@ -31,9 +31,11 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Nice meme
   * Pumkin
   * Its a meme you dip
-  * ###NEED TO BOOST AUDIO
+  * ##NEED TO BOOST AUDIO
 
-##
+##HOW TO USE SOUND ADDER:
+  1. Open Command Prompt
+  2. Type "java -jar" into the prompt
   
 
 
