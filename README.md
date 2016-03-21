@@ -42,8 +42,19 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Sit down kid
   * ##NEED TO BOOST AUDIO
 
+##INSTALLATION
+  1. Download .zip file of repo
+  2. Extract the files to a file
+  3. Launch Chrome
+  4. Open extensions menu
+  5. Turn on developer mode by clicking the check box at the top
+  6. Click "Load unpacked extension"
+  7. Select the extracted folder
+  8. Enjoy your cancerous memes
+
 ##HOW TO USE SOUND ADDER:
   1. Open command prompt
+  2. 
   
 
 
