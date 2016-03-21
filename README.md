@@ -31,6 +31,10 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Nice meme
   * Pumkin
   * Its a meme you dip
+  * My name is Kiraia, i'm 15 and i'm pregnant as fuck
+  * Screamer
+  * My favorite flavor of popsicle is dick
+  * I named my Pussy Rihanna because my pussy love getting beat up
   * ##NEED TO BOOST AUDIO
 
 ##HOW TO USE SOUND ADDER:
