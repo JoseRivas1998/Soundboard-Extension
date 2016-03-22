@@ -1,7 +1,17 @@
-# ayy-lmao-pls
+# Soundboard Chrome Extension
 Trying out making a basic chrome extension. Should eventually be a simple soundboard of annoying noise.
 
-###TO ADD:
+##INSTALLATION
+  1. Download .zip file of repo
+  2. Extract the files to a file
+  3. Launch Chrome
+  4. Open extensions menu
+  5. Turn on developer mode by clicking the check box at the top
+  6. Click "Load unpacked extension"
+  7. Select the extracted folder
+  8. Enjoy your cancerous memes
+
+###SOUNDS COMING SOON:
   * Various sexual moaning
   * Fuck you
   * What a Windy Day
@@ -32,7 +42,6 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Its a meme you dip
   * SHIEEET
   * Screamer
-  * I'd sell my body for a double cheeseburger
   * Hit me with that wet dick daddy
   * Please shut the fuck up
   * high pitch noise
