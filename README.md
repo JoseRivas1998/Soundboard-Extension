@@ -15,37 +15,36 @@ Trying out making a basic chrome extension. Should eventually be a simple soundb
   * Various sexual moaning
   * Fuck you
   * What a Windy Day
-  * Fist me daddy
   * Socks
   * Dress
   * Darude sandstorm
-  * allahu akbar
-  * caaaaarrrl
-  * it's Wednesday my dudes
-  * phone ringing
-  * only time
-  * smoke weed everyday
-  * sad violin earrape edition
   * MLG sound effects
   * G U N S
   * hitmarker
   * who moved my cheese
-  * wake me up inside (oatmeal)
+  * --wake me up inside (oatmeal)--
   * I have a cancer boss
   * Darius's YouTube
-  * My Heart Will Go On (Ear rape/cancer)
+  * --My Heart Will Go On (Ear rape/cancer)--
   * Cancermemes
   * Knowledge
   * New lamborghinis
   * Nice meme
   * Pumkin
-  * Its a meme you dip
-  * SHIEEET
+  * --Its a meme you dip--
+  * --SHIEEET--
   * Screamer
   * Hit me with that wet dick daddy
   * Please shut the fuck up
   * high pitch noise
   * Sit down kid
+  * --allahu akbar--
+  * --caaaaarrrl--
+  * --it's Wednesday my dudes--
+  * --phone ringing--
+  * --only time--
+  * --smoke weed everyday--
+  * --sad violin earrape edition--
   * **NEED TO BOOST AUDIO**
 
 ##INSTALLATION
