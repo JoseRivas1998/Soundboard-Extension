@@ -4,5 +4,6 @@ body
 }
 a
 {
-	white-space:nowrap;
+	width: 50%;
+	float: left;
 }
